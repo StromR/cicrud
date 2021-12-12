@@ -1,0 +1,19 @@
+#wrapper{
+	margin-top:5%;
+}
+
+table > tbody > tr.kosong > td{
+	text-align:center;
+}
+
+.table-layout{
+	margin-top:30px;
+}
+.grid-layout{
+	margin-top:30px;
+}
+.error{
+	color:red;
+	font-style:italic;
+	font-size:12px;
+}
